@@ -1,20 +1,8 @@
 {
-  "Product": [
-    {
-      "id": 1,
-      "type": "electronic",
-      "year": 2019,
-      "Description": "laptop ",
-      "Price": 50000
-    }
+  "p .roduct": [
+
   ],
   "cart": [
-    {
-      "id": 1,
-      "type": "electronic",
-      "year": 2019,
-      "Description": "laptop ",
-      "Price": 50000
-    }
+   
   ]
 }
